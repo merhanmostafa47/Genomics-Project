@@ -1,0 +1,158 @@
+ORF ID,Subject Id,,%  seq iden, Alignment len,E-score
+lcl|ORF1:64:1362,B1I6X3.1,sp|B1I6X3.1|DNAA_STRPI RecName: Full=Chromosomal replication initiator protein DnaA,100,432,809
+lcl|ORF1:64:1362,C1CN66.1,sp|C1CN66.1|DNAA_STRZP RecName: Full=Chromosomal replication initiator protein DnaA,99.769,432,808
+lcl|ORF1:64:1362,B5E568.1,sp|B5E568.1|DNAA_STRP4 RecName: Full=Chromosomal replication initiator protein DnaA,99.769,432,808
+lcl|ORF1:64:1362,C1CU44.1,sp|C1CU44.1|DNAA_STRZT RecName: Full=Chromosomal replication initiator protein DnaA,99.769,432,808
+lcl|ORF1:64:1362,B9DSN7.1,sp|B9DSN7.1|DNAA_STRU0 RecName: Full=Chromosomal replication initiator protein DnaA,61.574,432,487
+lcl|ORF1:64:1362,Q1J960.1,sp|Q1J960.1|DNAA_STRPF RecName: Full=Chromosomal replication initiator protein DnaA,61.609,435,482
+lcl|ORF1:64:1362,A2RBX3.1,sp|A2RBX3.1|DNAA_STRPG RecName: Full=Chromosomal replication initiator protein DnaA,61.379,435,481
+lcl|ORF1:64:1362,B4U5G8.1,sp|B4U5G8.1|DNAA_STREM RecName: Full=Chromosomal replication initiator protein DnaA,60.97,433,474
+lcl|ORF1:64:1362,C0M7C0.1,sp|C0M7C0.1|DNAA_STRE4 RecName: Full=Chromosomal replication initiator protein DnaA,60.97,433,473
+lcl|ORF1:64:1362,Q8DWN9.1,sp|Q8DWN9.1|DNAA_STRMU RecName: Full=Chromosomal replication initiator protein DnaA,59.447,434,473
+lcl|ORF2:2722:2916,C0H3V8.1,sp|C0H3V8.1|YYZM_BACSU RecName: Full=Uncharacterized protein YyzM,45.161,62,62.4
+lcl|ORF5:4186:4755,C1CNN8.1,sp|C1CNN8.1|PTH_STRZT RecName: Full=Peptidyl-tRNA hydrolase; Short=PTH,100,189,337
+lcl|ORF5:4186:4755,B1I6X7.1,sp|B1I6X7.1|PTH_STRPI RecName: Full=Peptidyl-tRNA hydrolase; Short=PTH,99.471,189,335
+lcl|ORF5:4186:4755,B8ZJI3.1,sp|B8ZJI3.1|PTH_STRPJ RecName: Full=Peptidyl-tRNA hydrolase; Short=PTH,98.942,189,335
+lcl|ORF5:4186:4755,B2IQZ3.1,sp|B2IQZ3.1|PTH_STRPS RecName: Full=Peptidyl-tRNA hydrolase; Short=PTH,98.942,189,333
+lcl|ORF5:4186:4755,Q04N59.1,sp|Q04N59.1|PTH_STRP2 RecName: Full=Peptidyl-tRNA hydrolase; Short=PTH,98.413,189,332
+lcl|ORF5:4186:4755,A8B006.1,sp|A8B006.1|PTH_STRGC RecName: Full=Peptidyl-tRNA hydrolase; Short=PTH,80.423,189,278
+lcl|ORF5:4186:4755,A3CJX1.1,sp|A3CJX1.1|PTH_STRSV RecName: Full=Peptidyl-tRNA hydrolase; Short=PTH,76.19,189,264
+lcl|ORF5:4186:4755,A4VS92.1,sp|A4VS92.1|PTH_STRSY RecName: Full=Peptidyl-tRNA hydrolase; Short=PTH,70.899,189,252
+lcl|ORF5:4186:4755,Q8DWN5.1,sp|Q8DWN5.1|PTH_STRMU RecName: Full=Peptidyl-tRNA hydrolase; Short=PTH,67.196,189,234
+lcl|ORF5:4186:4755,B4U5H3.1,sp|B4U5H3.1|PTH_STREM RecName: Full=Peptidyl-tRNA hydrolase; Short=PTH,68.254,189,233
+lcl|ORF6:4756:8265,P37474.1,sp|P37474.1|MFD_BACSU RecName: Full=Transcription-repair-coupling factor; Short=TRCF,47.456,1081,957
+lcl|ORF6:4756:8265,Q4L3G0.1,sp|Q4L3G0.1|MFD_STAHJ RecName: Full=Transcription-repair-coupling factor; Short=TRCF,45.115,1126,895
+lcl|ORF6:4756:8265,Q2YVY2.1,sp|Q2YVY2.1|MFD_STAAB RecName: Full=Transcription-repair-coupling factor; Short=TRCF,45.872,1090,890
+lcl|ORF6:4756:8265,Q6GJG8.1,sp|Q6GJG8.1|MFD_STAAR RecName: Full=Transcription-repair-coupling factor; Short=TRCF,45.872,1090,889
+lcl|ORF6:4756:8265,Q2FJD8.1,sp|Q2FJD8.1|MFD_STAA3 RecName: Full=Transcription-repair-coupling factor; Short=TRCF,45.688,1090,887
+lcl|ORF6:4756:8265,Q7A7B2.1,sp|Q7A7B2.1|MFD_STAAN RecName: Full=Transcription-repair-coupling factor; Short=TRCF,45.688,1090,886
+lcl|ORF6:4756:8265,Q5HIH2.1,sp|Q5HIH2.1|MFD_STAAC RecName: Full=Transcription-repair-coupling factor; Short=TRCF,45.688,1090,886
+lcl|ORF6:4756:8265,Q6GBY5.1,sp|Q6GBY5.1|MFD_STAAS RecName: Full=Transcription-repair-coupling factor; Short=TRCF,45.596,1090,884
+lcl|ORF6:4756:8265,Q5HRQ2.1,sp|Q5HRQ2.1|MFD_STAEQ RecName: Full=Transcription-repair-coupling factor; Short=TRCF,45.976,1081,882
+lcl|ORF6:4756:8265,Q8CMT1.1,sp|Q8CMT1.1|MFD_STAES RecName: Full=Transcription-repair-coupling factor; Short=TRCF,45.883,1081,880
+lcl|ORF7:8323:8589,P64405.1,sp|P64405.1|Y007_STRPN RecName: Full=Uncharacterized protein SP_0007,100,88,171
+lcl|ORF7:8323:8589,P37557.1,sp|P37557.1|YABO_BACSU RecName: Full=Uncharacterized protein YabO,61.628,86,110
+lcl|ORF7:8323:8589,Q9ZIM1.2,sp|Q9ZIM1.2|Y216_LISMO RecName: Full=Uncharacterized protein Lmo0216,58.621,87,103
+lcl|ORF7:8323:8589,Q92F59.2,sp|Q92F59.2|Y248_LISIN RecName: Full=Uncharacterized protein Lin0248,57.471,87,102
+lcl|ORF7:8323:8589,Q9KGI8.1,sp|Q9KGI8.1|Y073_ALKHC RecName: Full=Uncharacterized protein BH0073,55.128,78,91.7
+lcl|ORF24:23236:23703,Q8P2R7.1,sp|Q8P2R7.1|TADA_STRP8 RecName: Full=tRNA-specific adenosine deaminase,72.903,155,220
+lcl|ORF24:23236:23703,P0DA20.1,sp|P0DA20.1|TADA_STRP3 RecName: Full=tRNA-specific adenosine deaminase,72.903,155,220
+lcl|ORF24:23236:23703,P68999.1,sp|P68999.1|TADA_STRP1 RecName: Full=tRNA-specific adenosine deaminase,72.258,155,218
+lcl|ORF24:23236:23703,Q99W51.1,sp|Q99W51.1|TADA_STAAM RecName: Full=tRNA-specific adenosine deaminase,51.181,127,143
+lcl|ORF24:23236:23703,P68397.2,sp|P68397.2|TADA_SHIFL RecName: Full=tRNA-specific adenosine deaminase,50.388,129,137
+lcl|ORF24:23236:23703,Q8FF24.2,sp|Q8FF24.2|TADA_ECOL6 RecName: Full=tRNA-specific adenosine deaminase,50.388,129,137
+lcl|ORF24:23236:23703,P21335.1,sp|P21335.1|TADA_BACSU RecName: Full=tRNA-specific adenosine deaminase,47.26,146,137
+lcl|ORF24:23236:23703,Q7CQ08.2,sp|Q7CQ08.2|TADA_SALTY RecName: Full=tRNA-specific adenosine deaminase,49.612,129,134
+lcl|ORF24:23236:23703,O67050.1,sp|O67050.1|TADA_AQUAE RecName: Full=tRNA-specific adenosine deaminase,44.521,146,114
+lcl|ORF24:23236:23703,P44931.1,sp|P44931.1|TADA_HAEIN RecName: Full=tRNA-specific adenosine deaminase,42.969,128,113
+lcl|ORF26:26725:27456,P44193.1,sp|P44193.1|Y1422_HAEIN RecName: Full=Uncharacterized protein HI_1422,29.609,179,81.3
+lcl|ORF26:26725:27456,P19655.1,sp|P19655.1|ANT_BPP1 RecName: Full=Antirepressor protein 1; Short=ant1; AltName: Full=Repressor bypass protein B; Short=rebB; Contains: RecName: Full=Antirepressor protein 2; Short=ant2; AltName: Full=Repressor bypass protein A; Short=rebA,30.233,172,60.1
+lcl|ORF34:31153:31728,P66854.1,sp|P66854.1|SSB_STRPN RecName: Full=Single-stranded DNA-binding protein; Short=SSB,61.257,191,211
+lcl|ORF34:31153:31728,P66850.1,sp|P66850.1|SSB1_STRA3 RecName: Full=Single-stranded DNA-binding protein 1; Short=SSB 1,58.639,191,202
+lcl|ORF34:31153:31728,Q9CDM9.1,sp|Q9CDM9.1|SSB2_LACLA RecName: Full=Single-stranded DNA-binding protein 2; Short=SSB 2,57.068,191,197
+lcl|ORF34:31153:31728,Q8E0Z9.1,sp|Q8E0Z9.1|SSB3_STRA5 RecName: Full=Single-stranded DNA-binding protein 3; Short=SSB 3,83.019,106,188
+lcl|ORF34:31153:31728,P0DF76.1,sp|P0DF76.1|SSB_STRP3 RecName: Full=Single-stranded DNA-binding protein; Short=SSB,84.906,106,186
+lcl|ORF34:31153:31728,P0DF76.1,sp|P0DF76.1|SSB_STRP3 RecName: Full=Single-stranded DNA-binding protein; Short=SSB,65.385,26,41.2
+lcl|ORF34:31153:31728,Q8NZJ0.1,sp|Q8NZJ0.1|SSB2_STRP8 RecName: Full=Single-stranded DNA-binding protein 2; Short=SSB 2,83.962,106,186
+lcl|ORF34:31153:31728,Q8NZJ0.1,sp|Q8NZJ0.1|SSB2_STRP8 RecName: Full=Single-stranded DNA-binding protein 2; Short=SSB 3,62.963,27,41.2
+lcl|ORF34:31153:31728,Q8DSD8.1,sp|Q8DSD8.1|SSB_STRMU RecName: Full=Single-stranded DNA-binding protein; Short=SSB,84.906,106,183
+lcl|ORF34:31153:31728,Q8DSD8.1,sp|Q8DSD8.1|SSB_STRMU RecName: Full=Single-stranded DNA-binding protein; Short=SSB,65.385,26,41.6
+lcl|ORF34:31153:31728,Q839Y9.1,sp|Q839Y9.1|SSB_ENTFA RecName: Full=Single-stranded DNA-binding protein; Short=SSB,54.45,191,181
+lcl|ORF34:31153:31728,Q8DXI7.1,sp|Q8DXI7.1|SSB4_STRA5 RecName: Full=Single-stranded DNA-binding protein 4; Short=SSB 4,81.132,106,179
+lcl|ORF34:31153:31728,Q8P2H3.1,sp|Q8P2H3.1|SSB1_STRP8 RecName: Full=Single-stranded DNA-binding protein 1; Short=SSB 1,75.472,106,171
+lcl|ORF45:39850:41160,P54308.1,"sp|P54308.1|TERL_BPSPP RecName: Full=Terminase, large subunit; AltName: Full=DNA-packaging protein; AltName: Full=Gene product 2; Short=gp2; Includes: RecName: Full=Endonuclease; Includes: RecName: Full=ATPase",25.986,431,121
+lcl|ORF47:44815:45696,P70076.1,"sp|P70076.1|HARS1_TAKRU RecName: Full=Histidine--tRNA ligase, cytoplasmic; AltName: Full=Histidyl-tRNA synthetase; Short=HisRS",26.316,114,39.3
+lcl|ORF70:21707:23035,B8ZJJ5.1,sp|B8ZJJ5.1|PURA_STRPJ RecName: Full=Adenylosuccinate synthetase; Short=AMPSase; Short=AdSS; AltName: Full=IMP--aspartate ligase,99.766,428,868
+lcl|ORF70:21707:23035,A3CQU5.1,sp|A3CQU5.1|PURA_STRSV RecName: Full=Adenylosuccinate synthetase; Short=AMPSase; Short=AdSS; AltName: Full=IMP--aspartate ligase,96.495,428,844
+lcl|ORF70:21707:23035,A8AZM9.1,sp|A8AZM9.1|PURA_STRGC RecName: Full=Adenylosuccinate synthetase; Short=AMPSase; Short=AdSS; AltName: Full=IMP--aspartate ligase,96.262,428,841
+lcl|ORF70:21707:23035,B9DT31.1,sp|B9DT31.1|PURA_STRU0 RecName: Full=Adenylosuccinate synthetase; Short=AMPSase; Short=AdSS; AltName: Full=IMP--aspartate ligase,93.692,428,824
+lcl|ORF70:21707:23035,C0MAE4.1,sp|C0MAE4.1|PURA_STRE4 RecName: Full=Adenylosuccinate synthetase; Short=AMPSase; Short=AdSS; AltName: Full=IMP--aspartate ligase,92.991,428,820
+lcl|ORF70:21707:23035,C0MFY0.1,sp|C0MFY0.1|PURA_STRS7 RecName: Full=Adenylosuccinate synthetase; Short=AMPSase; Short=AdSS; AltName: Full=IMP--aspartate ligase,92.991,428,819
+lcl|ORF70:21707:23035,Q1JIX0.1,sp|Q1JIX0.1|PURA_STRPD RecName: Full=Adenylosuccinate synthetase; Short=AMPSase; Short=AdSS; AltName: Full=IMP--aspartate ligase,92.757,428,815
+lcl|ORF70:21707:23035,Q1JNS3.1,sp|Q1JNS3.1|PURA_STRPC RecName: Full=Adenylosuccinate synthetase; Short=AMPSase; Short=AdSS; AltName: Full=IMP--aspartate ligase,92.757,428,815
+lcl|ORF70:21707:23035,B5XJH8.1,sp|B5XJH8.1|PURA_STRPZ RecName: Full=Adenylosuccinate synthetase; Short=AMPSase; Short=AdSS; AltName: Full=IMP--aspartate ligase,92.523,428,814
+lcl|ORF70:21707:23035,P0DD54.1,sp|P0DD54.1|PURA_STRP3 RecName: Full=Adenylosuccinate synthetase; Short=AMPSase; Short=AdSS; AltName: Full=IMP--aspartate ligase,92.523,428,814
+lcl|ORF93:42944:44095,Q04765.2,sp|Q04765.2|VSP1_BPLLH RecName: Full=Structural protein; AltName: Full=ORF1 protein; AltName: Full=ORF371,31.099,373,162
+lcl|ORF93:42944:44095,Q04766.1,sp|Q04766.1|VSP1_BPMV4 RecName: Full=Structural protein; AltName: Full=ORF1 protein; AltName: Full=ORF371,37.069,116,77.8
+lcl|ORF101:1521:2657,O06672.2,sp|O06672.2|DPO3B_STRPN RecName: Full=Beta sliding clamp; Short=Beta clamp; Short=Sliding clamp; AltName: Full=Beta-clamp processivity factor; AltName: Full=DNA polymerase III beta sliding clamp subunit; AltName: Full=DNA polymerase III subunit beta,100,378,701
+lcl|ORF101:1521:2657,P59651.1,sp|P59651.1|DPO3B_STRR6 RecName: Full=Beta sliding clamp; Short=Beta clamp; Short=Sliding clamp; AltName: Full=Beta-clamp processivity factor; AltName: Full=DNA polymerase III beta sliding clamp subunit; AltName: Full=DNA polymerase III subunit beta,99.471,378,698
+lcl|ORF101:1521:2657,Q9CJJ1.1,sp|Q9CJJ1.1|DPO3B_LACLA RecName: Full=Beta sliding clamp; Short=Beta clamp; Short=Sliding clamp; AltName: Full=Beta-clamp processivity factor; AltName: Full=DNA polymerase III beta sliding clamp subunit; AltName: Full=DNA polymerase III subunit beta,57.368,380,395
+lcl|ORF101:1521:2657,O54376.1,sp|O54376.1|DPO3B_LACLM RecName: Full=Beta sliding clamp; Short=Beta clamp; Short=Sliding clamp; AltName: Full=Beta-clamp processivity factor; AltName: Full=DNA polymerase III beta sliding clamp subunit; AltName: Full=DNA polymerase III subunit beta,56.842,380,391
+lcl|ORF101:1521:2657,Q5HK00.1,sp|Q5HK00.1|DPO3B_STAEQ RecName: Full=Beta sliding clamp; Short=Beta clamp; Short=Sliding clamp; AltName: Full=Beta-clamp processivity factor; AltName: Full=DNA polymerase III beta sliding clamp subunit; AltName: Full=DNA polymerase III subunit beta,41.27,378,272
+lcl|ORF101:1521:2657,P0A022.1,sp|P0A022.1|DPO3B_STAAM RecName: Full=Beta sliding clamp; Short=Beta clamp; Short=Sliding clamp; AltName: Full=Beta-clamp processivity factor; AltName: Full=DNA polymerase III beta sliding clamp subunit; AltName: Full=DNA polymerase III subunit beta,39.947,378,268
+lcl|ORF101:1521:2657,P05649.1,sp|P05649.1|DPO3B_BACSU RecName: Full=Beta sliding clamp; Short=Beta clamp; Short=Sliding clamp; AltName: Full=Beta-clamp processivity factor; AltName: Full=DNA polymerase III beta sliding clamp subunit; AltName: Full=DNA polymerase III subunit beta,41.161,379,263
+lcl|ORF101:1521:2657,Q9RCA1.1,sp|Q9RCA1.1|DPO3B_ALKHC RecName: Full=Beta sliding clamp; Short=Beta clamp; Short=Sliding clamp; AltName: Full=Beta-clamp processivity factor; AltName: Full=DNA polymerase III beta sliding clamp subunit; AltName: Full=DNA polymerase III subunit beta,41.192,386,249
+lcl|ORF101:1521:2657,P34029.1,sp|P34029.1|DPO3B_SPICI RecName: Full=Beta sliding clamp; Short=Beta clamp; Short=Sliding clamp; AltName: Full=Beta-clamp processivity factor; AltName: Full=DNA polymerase III beta sliding clamp subunit; AltName: Full=DNA polymerase III subunit beta,29.947,374,143
+lcl|ORF101:1521:2657,A0QND6.1,sp|A0QND6.1|DPO3B_MYCS2 RecName: Full=Beta sliding clamp; Short=Beta clamp; Short=Sliding clamp; AltName: Full=Beta-clamp processivity factor; AltName: Full=DNA polymerase III beta sliding clamp subunit; AltName: Full=DNA polymerase III subunit beta,26.633,398,139
+lcl|ORF102:2991:4115,P37518.1,sp|P37518.1|YCHF_BACSU RecName: Full=Ribosome-binding ATPase YchF,68.194,371,509
+lcl|ORF102:2991:4115,P44681.2,sp|P44681.2|YCHF_HAEIN RecName: Full=Ribosome-binding ATPase YchF,55.795,371,392
+lcl|ORF102:2991:4115,P0ABU2.2,sp|P0ABU2.2|YCHF_ECOLI RecName: Full=Ribosome-binding ATPase YchF,54.447,371,389
+lcl|ORF102:2991:4115,Q9CP90.3,sp|Q9CP90.3|YCHF_PASMU RecName: Full=Ribosome-binding ATPase YchF,54.178,371,386
+lcl|ORF102:2991:4115,Q7VMI2.3,sp|Q7VMI2.3|YCHF_HAEDU RecName: Full=Ribosome-binding ATPase YchF,53.639,371,386
+lcl|ORF102:2991:4115,P47270.1,sp|P47270.1|YCHF_MYCGE RecName: Full=Ribosome-binding ATPase YchF,47.17,371,322
+lcl|ORF102:2991:4115,Q8K9V2.3,sp|Q8K9V2.3|YCHF_BUCAP RecName: Full=Ribosome-binding ATPase YchF,44.744,371,321
+lcl|ORF102:2991:4115,P57288.3,sp|P57288.3|YCHF_BUCAI RecName: Full=Ribosome-binding ATPase YchF,44.205,371,310
+lcl|ORF102:2991:4115,Q9SA73.1,sp|Q9SA73.1|OLA1_ARATH RecName: Full=Obg-like ATPase 1; AltName: Full=Ribosome-binding ATPase YchF; Short=AtYchF1,42.44,377,292
+lcl|ORF102:2991:4115,Q6Z1J6.1,sp|Q6Z1J6.1|OLA1_ORYSJ RecName: Full=Obg-like ATPase 1; AltName: Full=Ribosome-binding ATPase YchF; Short=OsYchF1,42.818,369,291
+lcl|ORF104:10335:11612,C1CNP4.1,sp|C1CNP4.1|TILS_STRZT RecName: Full=tRNA(Ile)-lysidine synthase; AltName: Full=tRNA(Ile)-2-lysyl-cytidine synthase; AltName: Full=tRNA(Ile)-lysidine synthetase,100,425,838
+lcl|ORF104:10335:11612,C1CN76.1,sp|C1CN76.1|TILS_STRZP RecName: Full=tRNA(Ile)-lysidine synthase; AltName: Full=tRNA(Ile)-2-lysyl-cytidine synthase; AltName: Full=tRNA(Ile)-lysidine synthetase,99.765,425,837
+lcl|ORF104:10335:11612,C1C992.1,sp|C1C992.1|TILS_STRP7 RecName: Full=tRNA(Ile)-lysidine synthase; AltName: Full=tRNA(Ile)-2-lysyl-cytidine synthase; AltName: Full=tRNA(Ile)-lysidine synthetase,99.529,425,835
+lcl|ORF104:10335:11612,B1I6Y3.1,sp|B1I6Y3.1|TILS_STRPI RecName: Full=tRNA(Ile)-lysidine synthase; AltName: Full=tRNA(Ile)-2-lysyl-cytidine synthase; AltName: Full=tRNA(Ile)-lysidine synthetase,99.529,425,835
+lcl|ORF104:10335:11612,Q97TC5.1,sp|Q97TC5.1|TILS_STRPN RecName: Full=tRNA(Ile)-lysidine synthase; AltName: Full=tRNA(Ile)-2-lysyl-cytidine synthase; AltName: Full=tRNA(Ile)-lysidine synthetase,99.294,425,832
+lcl|ORF104:10335:11612,C1CH91.1,sp|C1CH91.1|TILS_STRZJ RecName: Full=tRNA(Ile)-lysidine synthase; AltName: Full=tRNA(Ile)-2-lysyl-cytidine synthase; AltName: Full=tRNA(Ile)-lysidine synthetase,99.294,425,832
+lcl|ORF104:10335:11612,B8ZJI9.1,sp|B8ZJI9.1|TILS_STRPJ RecName: Full=tRNA(Ile)-lysidine synthase; AltName: Full=tRNA(Ile)-2-lysyl-cytidine synthase; AltName: Full=tRNA(Ile)-lysidine synthetase,99.059,425,830
+lcl|ORF104:10335:11612,Q04N53.1,sp|Q04N53.1|TILS_STRP2 RecName: Full=tRNA(Ile)-lysidine synthase; AltName: Full=tRNA(Ile)-2-lysyl-cytidine synthase; AltName: Full=tRNA(Ile)-lysidine synthetase,99.059,425,829
+lcl|ORF104:10335:11612,B2IQZ8.1,sp|B2IQZ8.1|TILS_STRPS RecName: Full=tRNA(Ile)-lysidine synthase; AltName: Full=tRNA(Ile)-2-lysyl-cytidine synthase; AltName: Full=tRNA(Ile)-lysidine synthetase,99.059,425,829
+lcl|ORF104:10335:11612,A8B000.1,sp|A8B000.1|TILS_STRGC RecName: Full=tRNA(Ile)-lysidine synthase; AltName: Full=tRNA(Ile)-2-lysyl-cytidine synthase; AltName: Full=tRNA(Ile)-lysidine synthetase,54.118,425,459
+lcl|ORF105:11616:12158,Q8DRP8.1,sp|Q8DRP8.1|HGPRT_STRR6 RecName: Full=Hypoxanthine-guanine phosphoribosyltransferase; Short=HGPRT; Short=HGPRTase,99.444,180,366
+lcl|ORF105:11616:12158,Q8E2H3.1,sp|Q8E2H3.1|HGPRT_STRA5 RecName: Full=Hypoxanthine-guanine phosphoribosyltransferase; Short=HGPRT; Short=HGPRTase,72.626,179,282
+lcl|ORF105:11616:12158,Q8DWM8.1,sp|Q8DWM8.1|HGPRT_STRMU RecName: Full=Hypoxanthine-guanine phosphoribosyltransferase; Short=HGPRT; Short=HGPRTase,73.184,179,281
+lcl|ORF105:11616:12158,Q5M216.1,sp|Q5M216.1|HGPRT_STRT1 RecName: Full=Hypoxanthine-guanine phosphoribosyltransferase; Short=HGPRT; Short=HGPRTase,70.95,179,274
+lcl|ORF105:11616:12158,P0DD40.1,sp|P0DD40.1|HGPRT_STRP3 RecName: Full=Hypoxanthine-guanine phosphoribosyltransferase; Short=HGPRT; Short=HGPRTase,70.391,179,259
+lcl|ORF105:11616:12158,Q839B2.1,sp|Q839B2.1|HGPRT_ENTFA RecName: Full=Hypoxanthine-guanine phosphoribosyltransferase; Short=HGPRT; Short=HGPRTase,62.778,180,241
+lcl|ORF105:11616:12158,Q02522.1,sp|Q02522.1|HGPRT_LACLA RecName: Full=Hypoxanthine-guanine phosphoribosyltransferase; Short=HGPRT; Short=HGPRTase,65.73,178,231
+lcl|ORF105:11616:12158,Q8YAC7.1,sp|Q8YAC7.1|TILS_LISMO RecName: Full=Bifunctional protein TilS/HprT; Includes: RecName: Full=tRNA(Ile)-lysidine synthase; AltName: Full=tRNA(Ile)-2-lysyl-cytidine synthase; AltName: Full=tRNA(Ile)-lysidine synthetase; Includes: RecName: Full=Hypoxanthine-guanine phosphoribosyltransferase; Short=HGPRT; Short=HGPRTase,60.674,178,234
+lcl|ORF105:11616:12158,Q724J4.1,sp|Q724J4.1|TILS_LISMF RecName: Full=Bifunctional protein TilS/HprT; Includes: RecName: Full=tRNA(Ile)-lysidine synthase; AltName: Full=tRNA(Ile)-2-lysyl-cytidine synthase; AltName: Full=tRNA(Ile)-lysidine synthetase; Includes: RecName: Full=Hypoxanthine-guanine phosphoribosyltransferase; Short=HGPRT; Short=HGPRTase,60.674,178,234
+lcl|ORF105:11616:12158,Q92F56.1,sp|Q92F56.1|TILS_LISIN RecName: Full=Bifunctional protein TilS/HprT; Includes: RecName: Full=tRNA(Ile)-lysidine synthase; AltName: Full=tRNA(Ile)-2-lysyl-cytidine synthase; AltName: Full=tRNA(Ile)-lysidine synthetase; Includes: RecName: Full=Hypoxanthine-guanine phosphoribosyltransferase; Short=HGPRT; Short=HGPRTase,60.674,178,232
+lcl|ORF106:12174:14132,P59652.1,sp|P59652.1|FTSH_STRR6 RecName: Full=ATP-dependent zinc metalloprotease FtsH,100,652,1181
+lcl|ORF106:12174:14132,O69076.3,sp|O69076.3|FTSH_STRPN RecName: Full=ATP-dependent zinc metalloprotease FtsH,99.847,652,1177
+lcl|ORF106:12174:14132,C6VKW6.1,sp|C6VKW6.1|FTSH_LACPJ RecName: Full=ATP-dependent zinc metalloprotease FtsH,65.549,656,736
+lcl|ORF106:12174:14132,P46469.1,sp|P46469.1|FTSH_LACLA RecName: Full=ATP-dependent zinc metalloprotease FtsH,62.461,634,684
+lcl|ORF106:12174:14132,Q83XX3.1,sp|Q83XX3.1|FTSH_OENOE RecName: Full=ATP-dependent zinc metalloprotease FtsH,59.009,666,648
+lcl|ORF106:12174:14132,Q03Z46.1,sp|Q03Z46.1|FTSH_LEUMM RecName: Full=ATP-dependent zinc metalloprotease FtsH,60.89,629,630
+lcl|ORF106:12174:14132,Q4L3G8.1,sp|Q4L3G8.1|FTSH_STAHJ RecName: Full=ATP-dependent zinc metalloprotease FtsH,55.591,626,605
+lcl|ORF106:12174:14132,P37476.1,sp|P37476.1|FTSH_BACSU RecName: Full=ATP-dependent zinc metalloprotease FtsH; AltName: Full=Cell division protease FtsH,57.393,629,602
+lcl|ORF106:12174:14132,P94304.2,sp|P94304.2|FTSH_ALKPO RecName: Full=ATP-dependent zinc metalloprotease FtsH,52.519,655,574
+lcl|ORF106:12174:14132,B0K5A3.1,sp|B0K5A3.1|FTSH1_THEPX RecName: Full=ATP-dependent zinc metalloprotease FtsH 1,52.09,622,542
+lcl|ORF122:32040:33173,P09389.2,sp|P09389.2|MTBB_BPSPB RecName: Full=Orphan methyltransferase M.SPBetaI; Short=M.SPBetaI; AltName: Full=Cytosine-specific methyltransferase SPBetaI; AltName: Full=Modification methylase SPBetaI,32.568,479,211
+lcl|ORF122:32040:33173,P05102.1,sp|P05102.1|MTH1_HAEPH RecName: Full=Type II methyltransferase M.HhaI; Short=M.HhaI; AltName: Full=Cytosine-specific methyltransferase HhaI; AltName: Full=Modification methylase HhaI,34.921,378,187
+lcl|ORF122:32040:33173,P25263.2,sp|P25263.2|MTC1_HERAU RecName: Full=Type II methyltransferase M.HgiCI; Short=M.HgiCI; AltName: Full=Cytosine-specific methyltransferase HgiCI; AltName: Full=Modification methylase HgiCI,33.411,428,185
+lcl|ORF122:32040:33173,P50185.1,sp|P50185.1|MTD5_DACSA RecName: Full=Type II methyltransferase M.DsaV; Short=M.DsaV; AltName: Full=Cytosine-specific methyltransferase DsaV; AltName: Full=Modification methylase DsaV,32.368,380,178
+lcl|ORF122:32040:33173,P15446.1,sp|P15446.1|MTH2_HAEPA RecName: Full=Type II methyltransferase M.HpaII; Short=M.HpaII; AltName: Full=Cytosine-specific methyltransferase HpaII; AltName: Full=Modification methylase HpaII,52.601,173,166
+lcl|ORF122:32040:33173,P34877.1,sp|P34877.1|MTSA_LACLC RecName: Full=Type II methyltransferase M1.ScrFI; Short=M1.ScrFI; AltName: Full=Cytosine-specific methyltransferase ScrFIA; AltName: Full=Modification methylase ScrFIA; Short=M.ScrFI-A; Short=M.ScrFIA,50.296,169,161
+lcl|ORF122:32040:33173,P34877.1,sp|P34877.1|MTSA_LACLC RecName: Full=Type II methyltransferase M1.ScrFI; Short=M1.ScrFI; AltName: Full=Cytosine-specific methyltransferase ScrFIA; AltName: Full=Modification methylase ScrFIA; Short=M.ScrFI-A; Short=M.ScrFIA,47.059,51,46.2
+lcl|ORF122:32040:33173,P00476.1,sp|P00476.1|MTBS_BPSPR RecName: Full=Orphan methyltransferase M.SPRI; Short=M.SPRI; AltName: Full=Cytosine-specific methyltransferase SPRI; AltName: Full=Modification methylase SPRI,43.114,167,158
+lcl|ORF122:32040:33173,P00476.1,sp|P00476.1|MTBS_BPSPR RecName: Full=Orphan methyltransferase M.SPRI; Short=M.SPRI; AltName: Full=Cytosine-specific methyltransferase SPRI; AltName: Full=Modification methylase SPRI,38.554,166,99
+lcl|ORF122:32040:33173,P19888.1,sp|P19888.1|MTBA_ANEAE RecName: Full=Type II methyltransferase M.BanI; Short=M.BanI; AltName: Full=Cytosine-specific methyltransferase BanI; AltName: Full=Modification methylase BanI,48.538,171,158
+lcl|ORF122:32040:33173,P19888.1,sp|P19888.1|MTBA_ANEAE RecName: Full=Type II methyltransferase M.BanI; Short=M.BanI; AltName: Full=Cytosine-specific methyltransferase BanI; AltName: Full=Modification methylase BanI,33.094,139,53.1
+lcl|ORF122:32040:33173,P09915.2,sp|P09915.2|MTBR_BPRH1 RecName: Full=Orphan methyltransferase M.Rho11sI; Short=M.Rho11sI; AltName: Full=Bsu P11s; AltName: Full=Cytosine-specific methyltransferase Rho11sI; AltName: Full=Modification methylase Rho11sI,43.713,167,159
+lcl|ORF122:32040:33173,P09915.2,sp|P09915.2|MTBR_BPRH1 RecName: Full=Orphan methyltransferase M.Rho11sI; Short=M.Rho11sI; AltName: Full=Bsu P11s; AltName: Full=Cytosine-specific methyltransferase Rho11sI; AltName: Full=Modification methylase Rho11sI,40.102,197,115
+lcl|ORF122:32040:33173,P34879.1,sp|P34879.1|MTS2_SHISO RecName: Full=Type II methyltransferase M.SsoII; Short=M.SsoII; AltName: Full=Cytosine-specific methyltransferase SsoII; AltName: Full=Modification methylase SsoII,34.474,380,152
+lcl|ORF129:37380:38474,Q05218.1,sp|Q05218.1|VG01_BPML5 RecName: Full=Gene 1 protein; AltName: Full=Gp1,39.548,177,152
+lcl|ORF129:37380:38474,O64197.1,sp|O64197.1|VG01_BPMD2 RecName: Full=Gene 1 protein; AltName: Full=Gp1,37.805,164,149
+lcl|ORF129:37380:38474,P76068.1,sp|P76068.1|YNAK_ECOLI RecName: Full=ParB-like nuclease domain-containing protein YnaK,40.244,82,68.9
+lcl|ORF129:37380:38474,Q3V4Q0.1,sp|Q3V4Q0.1|Y326B_ATV RecName: Full=Uncharacterized protein ORF326b,35.556,45,45.1
+lcl|ORF195:25054:23912,Q9CI63.1,sp|Q9CI63.1|P2IN_LACLA RecName: Full=Prophage ps2 probable integrase; AltName: Full=Int-TnX,36.667,390,203
+lcl|ORF195:25054:23912,P20709.1,sp|P20709.1|VINT_BPL54 RecName: Full=Integrase,34.551,356,155
+lcl|ORF195:25054:23912,P0A0N9.1,sp|P0A0N9.1|XERD_STAAM RecName: Full=Tyrosine recombinase XerD,26.641,259,88.6
+lcl|ORF195:25054:23912,Q4L6J7.1,sp|Q4L6J7.1|XERD_STAHJ RecName: Full=Tyrosine recombinase XerD,27.413,259,88.2
+lcl|ORF195:25054:23912,Q5HP53.1,sp|Q5HP53.1|XERD_STAEQ RecName: Full=Tyrosine recombinase XerD,25.517,290,86.3
+lcl|ORF195:25054:23912,Q7ZAJ2.1,sp|Q7ZAJ2.1|XERD_STAES RecName: Full=Tyrosine recombinase XerD,25.517,290,85.9
+lcl|ORF195:25054:23912,Q49XU5.1,sp|Q49XU5.1|XERD_STAS1 RecName: Full=Tyrosine recombinase XerD,25.869,259,82
+lcl|ORF195:25054:23912,Q9KCP0.1,sp|Q9KCP0.1|XERD_ALKHC RecName: Full=Tyrosine recombinase XerD,24.832,298,77.8
+lcl|ORF195:25054:23912,P96629.1,sp|P96629.1|INT_BACSU RecName: Full=ICEBs1 integrase,26.076,395,74.7
+lcl|ORF195:25054:23912,O26979.1,sp|O26979.1|XERA_METTH RecName: Full=Tyrosine recombinase XerA,28.571,168,71.2
+lcl|ORF202:19054:18809,Q3BAI2.1,sp|Q3BAI2.1|YCX91_PHAAO RecName: Full=Uncharacterized protein ORF91,73.684,57,85.5
+lcl|ORF234:26295:25939,O34647.1,sp|O34647.1|YOBD_BACSU RecName: Full=Uncharacterized HTH-type transcriptional regulator YobD,26.786,112,43.5
+lcl|ORF234:26295:25939,P23789.1,sp|P23789.1|XRE_BACSU RecName: Full=HTH-type transcriptional regulator Xre; AltName: Full=Putative PBSX repressor,38.333,60,38.9
+lcl|ORF234:26295:25939,P96631.1,sp|P96631.1|IMMR_BACSU RecName: Full=HTH-type transcriptional regulator ImmR,32.812,64,37.4
